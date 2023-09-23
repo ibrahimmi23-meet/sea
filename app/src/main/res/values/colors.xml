@@ -8,4 +8,15 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="lavender">#8692f7</color>
+    <color name="blueish">#B20AA579</color>
+    <color name="green">#5BBE7C</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#F6C100</color>
+    <color name="orange">#FFA500</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="teal">#008080</color>
+    <color name="oceangreen">#00796B</color>
+    <color name="colorPrimaryDark">#004C3F</color>
+
 </resources>
