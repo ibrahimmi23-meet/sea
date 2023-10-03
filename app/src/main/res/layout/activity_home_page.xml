@@ -36,11 +36,11 @@
                     android:layout_gravity="center"
                     android:background="@drawable/circleshape"
                     android:backgroundTint="@color/blueish"
-                    android:src="@drawable/baseline_attach_money_24"/>
+                    android:src="@drawable/baseline_map_24"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Money"
+                    android:text="locations Map"
                     android:textStyle="bold"
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"/>
@@ -53,7 +53,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Check our merchandise"
+                    android:text="Check the new locations"
                     android:layout_gravity="center"
                     android:textColor="@android:color/darker_gray"/>
             </LinearLayout>
@@ -126,26 +126,28 @@
                     android:layout_gravity="center"
                     android:background="@drawable/circleshape"
                     android:backgroundTint="@color/oceangreen"
-                    android:src="@drawable/baseline_attach_money_24"/>
+                    android:src="@drawable/baseline_newspaper_24"/>
+
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Money"
-                    android:textStyle="bold"
+                    android:layout_height="13dp"
                     android:layout_gravity="center"
-                    android:layout_marginTop="10dp"/>
+                    android:layout_marginTop="10dp"
+                    android:text="What is new"
+                    android:textStyle="bold" />
 
                 <View
                     android:layout_width="match_parent"
                     android:layout_height="1dp"
                     android:background="#E8E8E8"
                     android:layout_margin="10dp" />
+
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Check our merchandise"
+                    android:layout_height="42dp"
                     android:layout_gravity="center"
-                    android:textColor="@android:color/darker_gray"/>
+                    android:text="Get updated on the events in the diving world"
+                    android:textColor="@android:color/darker_gray" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
@@ -167,11 +169,11 @@
                     android:layout_gravity="center"
                     android:background="@drawable/circleshape"
                     android:backgroundTint="@color/green"
-                    android:src="@drawable/baseline_attach_money_24"/>
+                    android:src="@drawable/baseline_chat_24"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Money"
+                    android:text="Chat"
                     android:textStyle="bold"
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"/>
@@ -184,7 +186,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Check our merchandise"
+                    android:text="Chat with your frieds"
                     android:layout_gravity="center"
                     android:textColor="@android:color/darker_gray"/>
             </LinearLayout>
