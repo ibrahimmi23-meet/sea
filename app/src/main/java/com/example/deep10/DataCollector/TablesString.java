@@ -45,4 +45,14 @@ public class TablesString {
         public static final String COLUMN_PRODUCT_Latitude = "LocationLatitude";
         public static final String COLUMN_PRODUCT_Longitude = "LocationLongitude";
     }
+    public static class Chat implements BaseColumns {
+        public static final String TABLE_Location = "Location";
+        public static final String COLUMN_Location_ = "LocationName";
+        public static final String COLUMN_Location_DESCRIPTION = "LocationDescription";
+        public static final String COLUMN_Location_IMAGE = "LocationImage";
+        public static final String COLUMN_PRODUCT_Latitude = "LocationLatitude";
+        public static final String COLUMN_PRODUCT_Longitude = "LocationLongitude";
+
+
+
     }
